@@ -2,7 +2,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/>
 
 <!-- Mensagem de boas-vindas com efeito de digitação -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=30&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Gabriel+Henrique;Sou+Desenvolvedor,+JAVA+e+Estudante;Bem-vindo+ao+meu+perfil!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=30&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Gabriel+Henrique.;Sou+Desenvolvedor,+JAVA+e+Estudante;Bem-vindo+ao+meu+perfil!)](https://git.io/typing-svg)
 
 ---
 
