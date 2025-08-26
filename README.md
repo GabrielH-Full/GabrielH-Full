@@ -8,7 +8,7 @@
 
 ## 👨‍💻 Sobre mim
 - 🌱 Graduando **Engenharia da Computação** na **Universidade Virtual de São Paulo (UNIVESP)**
-- 🌍 Falo **Português** nativamente 
+- 🌍 Tenho **Inglês** nível Básico/Intermediário 
 - 💬 Pergunte-me sobre **Desenvolvimento Backend com Java**,  **Boas Práticas de Código**
 
 ---
