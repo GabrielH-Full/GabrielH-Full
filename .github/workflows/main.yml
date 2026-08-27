@@ -1,0 +1,32 @@
+name: Generate Pac-Man Graph
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Generate Pac-Man Graph
+        uses: rodrigo-brito/pacman-contribution@main
+        with:
+          username: GabrielH-Full
+          
+      - name: Commit Files
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add -A
+          git commit -m "chore: update pacman graph" || true
+          
+      - name: Push Changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: pacman-output
