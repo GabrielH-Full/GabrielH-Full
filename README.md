@@ -2,25 +2,36 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/>
 
 <!-- Mensagem de boas-vindas com efeito de digitação -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=30&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Gabriel+Henrique.;Sou+Desenvolvedor+JAVA+e+Estudante;Bem-vindo+ao+meu+perfil!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=30&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Gabriel+Henrique.;Sou+Desenvolvedor+e+Estudante;Bem-vindo+ao+meu+perfil!)](https://git.io/typing-svg)
 
 ---
 
 ## 👨‍💻 Sobre mim
 - 🌱 Graduando **Engenharia da Computação** na **Universidade Virtual de São Paulo (UNIVESP)**
-- 🌍 Tenho **Inglês** nível Básico/Intermediário 
-- 💬 Pergunte-me sobre **Desenvolvimento Backend com Java**,  **Boas Práticas de Código**
+- 🌍 Tenho **Inglês** nível Intermediário 
+- 💬 Pergunte-me sobre **Desenvolvimento FullStack**,  **Boas Práticas de Código**, **Arquitetura de Agentes com Templates, Skills e Tasks**
 
 ---
 
 ## 🚀 Tecnologias e Ferramentas
 
-<p align="center">  
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/NoSQL-database-orange?style=for-the-badge&logo=nosql&logoColor=white" alt="NoSQL Badge"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-</p>
+<div data-importer="techs" align="center">
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
+</div>
 
 ---
 
@@ -37,6 +48,12 @@
 </div>
 
 
+---
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielH-Full/GabrielH-Full/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GabrielH-Full/GabrielH-Full/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/GabrielH-Full/GabrielH-Full/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
 ---
 
 ## 📫 Entre em contato comigo:
